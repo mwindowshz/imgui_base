@@ -1,4 +1,6 @@
-//RTL strings
+//thanks to @harelw
+//for the support
+//RTL strings handeling
 // Function to determine the length of the UTF-8 character
 size_t utf8_char_length(char c) {
 	if ((c & 0x80) == 0x00) return 1; // 1-byte character
