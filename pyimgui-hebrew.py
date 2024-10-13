@@ -1,3 +1,5 @@
+#thanks to @harelw
+# for the support
 # I added Hebrew support using this method
 # adding glyphs that include the range for hebrew letters,
 # then I added a fucntion to filp the text so I get RTL support
